@@ -5,6 +5,10 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border: 0px solid #ff010170;
 }
 
 .description {
